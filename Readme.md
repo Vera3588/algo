@@ -8,7 +8,7 @@
 [Archivo configuraciones.py](#Archivo-configuraciones.py)     
 [Archivo RoundRobinn.py](#Archivo-RoundRobinn.py)  
 [Archivo proxy.py](#Archivo-proxy.py)       
-[funciones](#funciones:)
+[funciones](#funciones)
 
 [CONCLUSIONES](#CONCLUSIONES)   
 [DESARROLLADO POR](#DESARROLLADO-POR)  
