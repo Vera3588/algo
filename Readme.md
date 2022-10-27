@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 [INTRODUCCIÓN](#INTRODUCCIÓN)  
 [DESARROLLO](#DESARROLLO)      
-[Lenguajes y programas](#Lenguajes-y-programas)
+[Lenguajes y programas](#Lenguajes-y-programas)       
 [Uso y creación](#Uso-y-creación)   
 [Archivo configuraciones.py](#Archivo-configuraciones)     
 [Archivo RoundRobinn.py](#Archivo-RoundRobinn)  
@@ -39,7 +39,7 @@ En este creamos 3 archivos.py.
 - Para el proxy inverso encargado de la comunicación cliente/servidor, un archivo llamado proxy.py.
 - Para el round-robin encargado de balancear la carga, un archivo llamado RoundRobinn.py.
 
-### Archivo configuraciones.py
+### Archivo configuraciones
 
 En este archivo asignamos como variables las necesarias para configurar la conexión con el servidor, pasándole los puertos, el lenguaje que entiende, un tamaño para el buffer, y el host donde se aloja.
 
@@ -54,7 +54,7 @@ TAMAÑO = 4050
 
 ```
 
-### Archivo RoundRobinn.py
+### Archivo RoundRobinn
 
 En este archivo nos encargamos de la creación de todo el algoritmo de round-robin para balancear la carga entre los servidores como sigue:
 
@@ -93,7 +93,7 @@ En resumen lo que hace es guardar los servidores en un arreglo, luego abrir y cr
 
 En otras palabras, cada que entre un nuevo cliente lo asigna de 1 en 1 en cada servidor.
 
-### Archivo proxy.py
+### Archivo proxy
 
 En este archivo nos encargamos de la comunicación cliente/servidor, haciendo uso también de los anteriores 2 archivos.py creados.
 
