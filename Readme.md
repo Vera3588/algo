@@ -5,9 +5,9 @@
 [DESARROLLO](#DESARROLLO)      
 [Lenguajes y programas](#Lenguajes-y-programas)
 [Uso y creación](#Uso-y-creación)   
-[Archivo configuraciones.py](#Archivo-configuraciones.py)     
-[Archivo RoundRobinn.py](#Archivo-RoundRobinn.py)  
-[Archivo proxy.py](#Archivo-proxy.py)       
+[Archivo configuraciones.py](#Archivo-configuraciones)     
+[Archivo RoundRobinn.py](#Archivo-RoundRobinn)  
+[Archivo proxy.py](#Archivo-proxy)       
 [funciones](#funciones)
 
 [CONCLUSIONES](#CONCLUSIONES)   
